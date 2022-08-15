@@ -1,0 +1,5 @@
+2. Why does C provide the ++ and - - operators? Are they faster than other ways of incrementing and decrementing, 
+or they are just more convenient? 
+
+- C has inherited ++ and - - from B because B compiler could generate a more compact translation 
+for ++i than i = i + 1. In modern compilers they make no difference.
