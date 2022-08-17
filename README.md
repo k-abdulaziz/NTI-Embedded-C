@@ -1,2 +1,2 @@
 # NTI-Embedded-C
-This repository consists of solution to problems of exercises.
+This repository consists of solutions to problems of exercises & lectures.
