@@ -1,0 +1,8 @@
+8. What does the following code print? printf( "*\n**\n***\n****\n*****\n" );
+
+- A left aligned triangle shape
+*
+**
+***
+****
+*****

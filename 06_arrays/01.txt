@@ -1,0 +1,3 @@
+1. The compiler gives me an error message if I try to copy one array into another by using the assignment operator. What's wrong?
+
+- Arrays in c are not assignable but an array can be copied to anther using memcpy or loop to copy one-by-one element.

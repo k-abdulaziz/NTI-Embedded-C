@@ -1,0 +1,3 @@
+3. What does scanf do if the user puts punctuation marks (commas, for example) between numbers?
+
+- It reads and stores the first number then terminate when find a comma so the comma and remaining numbers are left for next scanf. 

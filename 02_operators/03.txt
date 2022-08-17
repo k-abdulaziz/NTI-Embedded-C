@@ -1,0 +1,3 @@
+3. I want to apply the % operator to a floating-point operand, but my program won't compile. What can I do?
+
+- The % operator works only with integers. Use fmod function to overcome this. 

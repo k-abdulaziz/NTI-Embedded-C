@@ -1,0 +1,3 @@
+1. My compiler doesn't give a warning when I use = instead of ==. Is there some way to force the compiler to notice the problem?
+
+- Put the value on left and the variable on right (10 = number).
