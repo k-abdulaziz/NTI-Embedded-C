@@ -1,5 +1,0 @@
-2. What does scanf do if it's asked to read a number but the user enters nonnumeric input?
-
-- If the user enters a number (matches the specifier) then non-numeric scanf(): reads and stores the number while the rest are still in stdin. (cause residual values)
-
-- But if the user enters non-numeric first: scanf reads nothing and all inputted values are still in stdin.

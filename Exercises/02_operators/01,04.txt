@@ -1,3 +1,0 @@
-1. & 4. When I use the postfix version of ++ or - -, just when is the increment or decrement performed?
-
-- According to C standards updating the stored value of the operand shall occur between the previous and the next sequence point.

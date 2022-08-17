@@ -1,7 +1,0 @@
-1. If printf treats % as the beginning of a conversion specification, how can I print the % character?
-
-printf("%%\n");
-or
-printf("%c\n", '%');
-or
-printf("%s\n", "%");

@@ -1,4 +1,0 @@
-5. Why are the rules for using the / and % operators with negative operands so complicated?
-
-- C89 has rule that if either operand is negative then the result of a division can be rounded 
-either up or down ( implementation-defined ) While C99 guarantees that it will be truncated towards 0.
